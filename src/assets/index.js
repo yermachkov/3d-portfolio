@@ -26,6 +26,10 @@ import webstudio from "./webstudio.jpg";
 
 import icecreamStore from "./icecream-store.jpeg";
 
+import phonebook from "./phonebook.jpg";
+
+import findMovie from "./find-movie.jpg";
+
 export {
   logo,
   backend,
@@ -51,4 +55,6 @@ export {
   sass,
   webstudio,
   icecreamStore,
+  findMovie,
+  phonebook,
 };
